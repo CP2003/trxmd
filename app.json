@@ -21,7 +21,7 @@
 		"SUDO": {
 			"description": "admin",
 			"required": true,
-			"value": "null"
+			"value": "94702108148"
 		},
 		"PREFIX": {
 			"description": "prefix, check for more",
@@ -36,7 +36,7 @@
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": true,
-			"value": "❤️,LyFE"
+			"value": "TRX-MD,:)"
 		},
 		"HEROKU_APP_NAME": {
 			"description": "Heroku app name, same as above entered",
@@ -49,7 +49,7 @@
 		"RMBG_KEY": {
 			"description": "API key from remove.bg, required for plugin rmbg",
 			"required": true,
-			"value": "null"
+			"value": "HknqmSUs8xTcf9NNFYXn6ht2"
 		},
 		"LANGUAG": {
 			"description": "Default Language for tts or trt",
